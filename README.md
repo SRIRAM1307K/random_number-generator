@@ -30,5 +30,5 @@ CSS – Styling and layout
 JavaScript – Game logic and interactivity
 
 📦 Live Demo
-You can try it out live here: (add your GitHub Pages or Netlify link)
+You can try it out live here: https://sriram1307k.github.io/random_number-generator/
 
