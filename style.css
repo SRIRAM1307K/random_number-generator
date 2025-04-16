@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(./images/bg.jpg);
+}
+.container {
+  width: 50%;
+  height: auto;
+  margin: 200px auto;
+  padding: 16px;
+  border: 2px solid #95cadc;
+  text-align: center;
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#inputBox {
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px 20px;
+}
+#btn {
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #95cadc;
+  border: #95cadc 1px solid;
+  font-size: large;
+}
+#result {
+  font-size: larger;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#guess {
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
